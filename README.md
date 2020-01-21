@@ -1,5 +1,5 @@
 # ssh-agent-sign-cli
-SSH agent sign cli
+SSH agent sign cli (POC)
 
 ## usage
 I use it to avoid writing in username/password for internal HTTP api calls from CLI.
